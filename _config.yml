@@ -1,0 +1,11 @@
+# basic options
+title: Deeziner web blog
+author: deezinerUK
+email: your-email@domain.com
+description: A collection of wonderful stuff
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
